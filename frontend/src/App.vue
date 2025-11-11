@@ -8,11 +8,16 @@
    input(type='input' name='Enter task')
    button Add
 
+   div.container
+
 </template>
 
 <style scoped>
     h1 {
     color: green;
+    }
+    button {
+    margin: 20px;
     }
 
 </style>
